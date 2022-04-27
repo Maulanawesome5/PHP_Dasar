@@ -6,4 +6,5 @@
     "php.validate.executablePath": "D:\\LATIHAN PEMROGRAMAN\\xampp\\php\\php.exe",
     "php.suggest.basic": true,
     "php.validate.enable": true,
+    "editor.minimap.enabled": false
 }
